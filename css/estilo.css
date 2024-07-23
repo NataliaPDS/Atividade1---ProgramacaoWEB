@@ -1,0 +1,136 @@
+body{
+    background-color: cornsilk;
+}
+#todo{
+    
+    width: 90%;
+    height: auto;
+    display:flex;
+    margin: auto;
+   
+}
+#tela1{
+   
+ width: 25%;
+ height: 25%;
+ background-color: white;
+
+ border-top-left-radius: 7px;
+ border-bottom-left-radius: 7px;
+
+ margin-right: 50px;
+ padding-left: 40px;
+ padding-top: 20px;
+ padding-bottom: 30px;
+}
+#tela2{
+    width: 25%;
+    height: 25%;
+    background-color: white;
+   
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+   
+    margin-right: 50px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+   
+}
+#tela3{
+    width: 25%;
+    height: 25%;
+    background-color: white;
+   
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+   
+    margin-right: 50px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+   
+
+}
+#tela4{
+    width: 25%;
+    height: 25%;
+    background-color: white;
+   
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+   
+    margin-right: 50px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+   
+
+}
+.icons{
+
+    width: 30%;
+    height: 30%;
+    padding-left: 25%;
+    padding-top: 10%;
+    border-radius: 50%;
+}
+#button1{
+    width: 55%;
+    height: 40px;
+    
+    color: white;
+    background-color: rgb(252, 74, 74);
+   
+    border: none;
+   
+    margin-top: 35%;
+}
+#button2{
+    width: 55%;
+    height: 40px;
+ 
+    color: white;
+    background-color: yellow;
+  
+    border: none;
+    
+    margin-top: 35%;
+}
+
+#button3{
+    width: 55%;
+    height: 40px;
+   
+    color: white;
+    background-color: green;
+   
+    border: none;
+    
+    margin-top: 35%;
+    margin-bottom: 5%;
+}
+#button4{
+    width: 55%;
+    height: 40px;
+   
+    color: white;
+    background-color: rgb(65, 36, 65);
+   
+    border: none;
+    
+    margin-top: 35%;
+    margin-bottom: 5%;
+}
+#titulo1{
+    color: rgb(252, 74, 74);
+}
+#titulo2{
+    color: yellow;
+}
+#titulo3{
+    color: green;
+}
+#titulo4{
+    color:rgb(65, 36, 65);
+}
